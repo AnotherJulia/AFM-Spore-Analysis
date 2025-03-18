@@ -806,7 +806,7 @@ def print_spore_statistics(detect_spores, filename, data, smooth_map):
     print(f"* Standard Deviation: {std_dev:.2f} nm")
     print(f"* Minimum Diameter: {min_diameter:.2f} nm")
     print(f"* Maximum Diameter: {max_diameter:.2f} nm")
-    print(f"* Interquartile Range (IQR): {iqr:.2f} nm")
+    print(f" Interquartile Range (IQR): {iqr:.2f} nm")
     print("="*50 + "\n")
 
 
